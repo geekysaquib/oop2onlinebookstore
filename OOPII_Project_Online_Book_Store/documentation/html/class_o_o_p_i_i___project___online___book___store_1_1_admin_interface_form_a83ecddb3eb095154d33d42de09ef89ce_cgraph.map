@@ -1,0 +1,9 @@
+<map id="OOPII_Project_Online_Book_Store.AdminInterfaceForm.btnAddMusicCD_Click" name="OOPII_Project_Online_Book_Store.AdminInterfaceForm.btnAddMusicCD_Click">
+<area shape="rect" id="node2" href="$class_o_o_p_i_i___project___online___book___store_1_1_music_c_d.html#a7fe2b8b917890a752e71e21340e19e39" title="OOPII_Project_Online\l_Book_Store.MusicCD.getMusic\lCDType" alt="" coords="294,5,505,61"/>
+<area shape="rect" id="node3" href="$class_o_o_p_i_i___project___online___book___store_1_1_admin_user.html#aec889396117e6d550e547731af6ec30c" title="OOPII_Project_Online\l_Book_Store.AdminUser.addNew\lMusicCD" alt="" coords="292,85,507,141"/>
+<area shape="rect" id="node8" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#ae0e11d540299e4b0a09b13ebc36b7cbc" title="OOPII_Project_Online\l_Book_Store.DataBase.datagrid" alt="" coords="295,166,503,207"/>
+<area shape="rect" id="node4" href="$class_o_o_p_i_i___project___online___book___store_1_1_product_factory.html#af7ee4f6b164a67478e43a908e4604344" title="OOPII_Project_Online\l_Book_Store.ProductFactory.\lCreateProduct" alt="" coords="575,48,770,104"/>
+<area shape="rect" id="node5" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#a6e1f8cf1e180da5a5397d26c22e7739e" title="OOPII_Project_Online\l_Book_Store.DataBase.addmusicCD" alt="" coords="555,129,791,170"/>
+<area shape="rect" id="node6" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#ab9f16c1e8669862722d13a601f27ccac" title="OOPII_Project_Online\l_Book_Store.DataBase.addProduct" alt="" coords="839,91,1067,133"/>
+<area shape="rect" id="node7" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#ad5d0722c2b9db7a3b88a1bb3ee62c551" title="OOPII_Project_Online\l_Book_Store.DataBase.update\lProductCount" alt="" coords="852,157,1053,213"/>
+</map>

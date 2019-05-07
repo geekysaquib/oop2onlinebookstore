@@ -1,0 +1,4 @@
+<map id="OOPII_Project_Online_Book_Store.ShoppingCart.sendInvoidcebyEmail" name="OOPII_Project_Online_Book_Store.ShoppingCart.sendInvoidcebyEmail">
+<area shape="rect" id="node2" href="$class_o_o_p_i_i___project___online___book___store_1_1_email_sender.html#a2cc2cbed249ac609cb142d40a09eb85e" title="OOPII_Project_Online\l_Book_Store.EmailSender.Send\lEmail" alt="" coords="292,5,501,61"/>
+<area shape="rect" id="node3" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#adfd3941d1f7ea96fb180c3d2282e6a7f" title="OOPII_Project_Online\l_Book_Store.DataBase.GetCustomerbyID" alt="" coords="264,86,529,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OOPII_Project_Online_Book_Store.ProductPanel" name="OOPII_Project_Online_Book_Store.ProductPanel">
+<area shape="rect" id="node3" href="$class_o_o_p_i_i___project___online___book___store_1_1_book_panel.html" title="OOPII_Project_Online\l_Book_Store.BookPanel" alt="" coords="348,5,512,47"/>
+<area shape="rect" id="node4" href="$class_o_o_p_i_i___project___online___book___store_1_1_magazine_panel.html" title="OOPII_Project_Online\l_Book_Store.MagazinePanel" alt="" coords="335,71,525,112"/>
+<area shape="rect" id="node5" href="$class_o_o_p_i_i___project___online___book___store_1_1_music_c_d_panel.html" title="OOPII_Project_Online\l_Book_Store.MusicCDPanel" alt="" coords="337,136,523,177"/>
+</map>

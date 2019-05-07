@@ -1,0 +1,9 @@
+<map id="OOPII_Project_Online_Book_Store.BillingsForm.InitializeComponent" name="OOPII_Project_Online_Book_Store.BillingsForm.InitializeComponent">
+<area shape="rect" id="node2" href="$class_o_o_p_i_i___project___online___book___store_1_1_billings_form.html#aa8aaac254b73556a507b29837ac6d5c6" title="OOPII_Project_Online\l_Book_Store.BillingsForm.btn\lSendMail_Click" alt="" coords="300,5,495,61"/>
+<area shape="rect" id="node4" href="$class_o_o_p_i_i___project___online___book___store_1_1_billings_form.html#aed2fceddd8b53fc658192a1456bcbb2b" title="OOPII_Project_Online\l_Book_Store.BillingsForm.dtgorder\l_CellClick" alt="" coords="285,85,509,141"/>
+<area shape="rect" id="node5" href="$class_o_o_p_i_i___project___online___book___store_1_1_billings_form.html#ad3dd1566f853c8ce3bd1062d3294a81a" title="OOPII_Project_Online\l_Book_Store.BillingsForm.btncancel_\lClick" alt="" coords="277,165,517,221"/>
+<area shape="rect" id="node7" href="$class_o_o_p_i_i___project___online___book___store_1_1_billings_form.html#a998abc0812b42496e2aa3283c13d7183" title="OOPII_Project_Online\l_Book_Store.BillingsForm.Billings\lForm_Load" alt="" coords="565,231,784,287"/>
+<area shape="rect" id="node3" href="$class_o_o_p_i_i___project___online___book___store_1_1_email_sender.html#a2cc2cbed249ac609cb142d40a09eb85e" title="OOPII_Project_Online\l_Book_Store.EmailSender.Send\lEmail" alt="" coords="570,5,779,61"/>
+<area shape="rect" id="node6" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#adef2ed367ddf01b91af536aaffc05785" title="OOPII_Project_Online\l_Book_Store.DataBase.Delete\lOrder" alt="" coords="575,151,774,207"/>
+<area shape="rect" id="node8" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#a0e404ad4edf33832358757fb71ee6f02" title="OOPII_Project_Online\l_Book_Store.DataBase.datagrid\lOrder" alt="" coords="832,231,1040,287"/>
+</map>

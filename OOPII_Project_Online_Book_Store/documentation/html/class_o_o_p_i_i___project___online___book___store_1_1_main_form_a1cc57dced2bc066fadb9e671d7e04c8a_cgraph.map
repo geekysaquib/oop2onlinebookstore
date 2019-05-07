@@ -1,0 +1,9 @@
+<map id="OOPII_Project_Online_Book_Store.MainForm.mainMenu_Load" name="OOPII_Project_Online_Book_Store.MainForm.mainMenu_Load">
+<area shape="rect" id="node2" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#a2256c0792bf6614b9da1d83aa26e048a" title="OOPII_Project_Online\l_Book_Store.DataBase.GetProduct" alt="" coords="312,79,540,120"/>
+<area shape="rect" id="node3" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#a535ecdc954c43896f3145eff7c4d9814" title="OOPII_Project_Online\l_Book_Store.DataBase.GetBook" alt="" coords="601,9,814,51"/>
+<area shape="rect" id="node5" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#a6449a469ea4c9ca269a8d6615dcb3223" title="OOPII_Project_Online\l_Book_Store.DataBase.GetMusicCD" alt="" coords="589,79,825,120"/>
+<area shape="rect" id="node7" href="$class_o_o_p_i_i___project___online___book___store_1_1_data_base.html#acb6f7893798120ec7339c8c0567b74ed" title="OOPII_Project_Online\l_Book_Store.DataBase.GetMagazine" alt="" coords="588,148,827,189"/>
+<area shape="rect" id="node4" href="$class_o_o_p_i_i___project___online___book___store_1_1_book.html#a45b18303a2041496ba73e8dd5a0ee5d5" title="OOPII_Project_Online\l_Book_Store.Book.GetBookType" alt="" coords="885,5,1099,47"/>
+<area shape="rect" id="node6" href="$class_o_o_p_i_i___project___online___book___store_1_1_music_c_d.html#a7fe2b8b917890a752e71e21340e19e39" title="OOPII_Project_Online\l_Book_Store.MusicCD.getMusic\lCDType" alt="" coords="887,71,1097,127"/>
+<area shape="rect" id="node8" href="$class_o_o_p_i_i___project___online___book___store_1_1_magazine.html#ac7ab24b376269286db9c1b8890a2762d" title="OOPII_Project_Online\l_Book_Store.Magazine.getmagazine" alt="" coords="875,152,1109,193"/>
+</map>
